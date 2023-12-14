@@ -50,7 +50,7 @@ public class App {
         System.out.println("1 - озу (4, 8, 16)");
         System.out.println("2 - Объем жд (256, 512, 1024)");
         System.out.println("3 - Объем ссд (0, 256)");
-        System.out.println("4 - Операционная система (Windows, Mac, NooC)");
+        System.out.println("4 - Операционная система (Windows, Mac, NoOC)");
         System.out.println("5 - Цвет (Black, Silver, Gray)");
         System.out.println("0 - Завершить выбор");
 
